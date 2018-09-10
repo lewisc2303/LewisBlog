@@ -9,6 +9,7 @@ draft: false
 ### Scala - Sink or Swim
 
 I’ve decided to choose Scala for the following reasons:
+
 -	Used in Microservices and the Data Team at HolidayCheck
 -	Data Science/Engineering interests me; we live in a world constantly churning data. Everything we do, the data is stored somewhere and having done lots of Statistics at university, the application of data interests me.
 -	It’s completely different to what I’ve done before; not similar to Python.
