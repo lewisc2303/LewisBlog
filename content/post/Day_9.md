@@ -19,7 +19,7 @@ I did not succeed in this endeavour. There was an issue with merging the reposit
 
 i'll attempt it again tomorrow but do repository creation purely from my local directory, so that I do not need to merge.
 
-### testing
+### Testing
 
 I downloaded some [Scala tests](http://www.scalatest.org/) into my Scala build directory. And then I spent a large proportion of the evening learning test syntax and how to import my code into my test class.
 
@@ -27,4 +27,4 @@ It also took a long time, but I managed to churn out a failed "Hello World!" tes
 
 I think the test failure issue lied in the string type. But will look into that further tomorrow.
 
-#### TL; DR One of those days where everything doesn't work the way you want it to!
+#### TL; DR: One of those days where everything doesn't work the way you want it to!
