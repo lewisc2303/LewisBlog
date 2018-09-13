@@ -16,10 +16,10 @@ draft: false
 
 #### In the words of Vanilla Ice - "Alright Stop! Collaborate and Listen"
 
-### TDD is where I wanna be
+### TDD (I should listen to thee)
 
  Today I spent time messing around with IntelliJ and testing the complier with lines of code. The TDD session today made me realise I need to test in very small steps, especially at my stage of learning as sometimes I'm not even sure of the expected outcome of the function I'm using.
 
- The first step at this stage, should be, "can it compile?" Do I have an object that can be processed and return an output.
+ The first step at this stage should be; "can it compile?". Do I have an object that can be processed and return an output.
 
  Then build up with what I do know. And if I want to try something new, break it down, understand the type or function by making it as simple as it can be.
