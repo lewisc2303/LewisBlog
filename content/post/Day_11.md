@@ -12,7 +12,7 @@ draft: false
 
  Jumping from problem to problem, getting sidetracked by new methods, so much so that the first method I learned, was forgotten an hour later.
 
- in order to personalise learning to what is best for me, I need to consolidate what I learn by practicing again and again and writing about it in my "Scala Arbeitsbuch"; writing it down and practicing allows your brain to interpret the new information and through applying it you reach a higher level of understanding. Reflecting and writing about it now, reminds me of what I learnt on day 2 about levels of comprehension/competency in the [The Dreyfus Model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition). In order to reach proficiency, one must be able to apply a holistic and intuitive use of an acquired skill.
+ In order to personalise learning to what is best for me, I need to consolidate what I learn by practicing again and again and writing about it in my "Scala Arbeitsbuch"; writing it down and practicing allows your brain to interpret the new information and through applying it you reach a higher level of understanding. Reflecting and writing about it now, reminds me of what I learnt on day 2 about levels of comprehension/competency in the [The Dreyfus Model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition). In order to reach proficiency, one must be able to apply a holistic and intuitive use of an acquired skill.
 
 #### In the words of Vanilla Ice - "Alright Stop! Collaborate and Listen"
 
