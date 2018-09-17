@@ -1,5 +1,5 @@
 ---
-title: "Day_15"
+title: "Day 15"
 date: 2018-09-17
 tags: []
 draft: false
