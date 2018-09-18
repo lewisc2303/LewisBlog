@@ -9,7 +9,7 @@ draft: false
 
 #### From basics to brilliance
 
-A bit OTT naming, but I am committed to the punny naming convention.
+A bit OTT naming, but I am committed to the "catchy" naming convention.
 
 One of the Senior Software Engineers has given me guidance to what is needed to grasp the Scala basics; which I have now completed:
 I can create immutable and mutable; variables, arrays, lists, maps and tuples. And create objects and loops to apply these methods. The basics.
