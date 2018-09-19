@@ -7,7 +7,7 @@ draft: false
 
 # Day 15
 
-#### From basics to brilliance
+### From basics to brilliance
 
 A bit OTT naming, but I am committed to the "catchy" naming convention.
 
