@@ -19,7 +19,7 @@ I've done quite a lot of public speaking in the past but I do not like it! I fin
 
 Also... Just accept blushing. It's just how some peoples faces work. The more you think about it, the more red you go, an infinite loop which leads to a stack overflow. The audience does not care if you are red as long as you don't care.
 
-![This is an image](/static/Images/Blushing.jpg)
+![This is an image](/Images/Blushing.jpg)
 
 #### The prep
 
