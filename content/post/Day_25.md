@@ -1,9 +1,9 @@
 ---
 title: "Day 25"
-date: 2018-10-01
+date: 2018-09-27
 tags: []
 draft: false
 ---
 # Day 25
 
-#### Sorry, no blog post today.
+#### Error message 404 - Blog post not found
