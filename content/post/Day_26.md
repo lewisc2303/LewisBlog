@@ -17,7 +17,7 @@ Today I decided to switch languages...
 
 Because of the reasons above, it was hard to focus and narrow my learning to learning purely Functional Programming. But Haskell is a language which is solely Functional Programming capable. By first learning Haskell and hence Functional Programming, I should be able to become more disciplined in implementing Functional Programming without the distraction of Java or O.O.P.
 
-Also the Haskell book I shall be learning from is called "Haskell Programming from first principles" - Christopher Allen & Julie Moronuki
-This book seems to describe concepts without assumed programming knowledge which beneficial for my learning.
+The Haskell book I shall be learning from is called "Haskell Programming from first principles" - Christopher Allen & Julie Moronuki.
+And this book seems to describe concepts without assumed programming knowledge which beneficial for my learning.
 
 I've done some Lambda calculus so far but will save the Haskell blog for tomorrows blog!
