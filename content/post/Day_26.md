@@ -8,7 +8,7 @@ draft: false
 
 # Language change
 
-Today I decided to switch the language to learn.
+Today I decided to switch languages...
 
 ### Why Scala wasn't right (for now)
 
