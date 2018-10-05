@@ -8,4 +8,4 @@ draft: false
 
 [Holiday!](https://www.youtube.com/watch?v=5Rswx2Z7SDw)
 
-But here is yesterdays post about [Datatypes](https://lewis-coleman-blog.netlify.com/post/day_32/)
+But here is yesterday's post about [Datatypes](https://lewis-coleman-blog.netlify.com/post/day_32/)
