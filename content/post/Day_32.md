@@ -27,7 +27,7 @@ data Bool = False | True
 - Data constructor:`True` and `False`.
 
 #### Typeclasses
-Is an an umbrella term for grouping certain types together and specifying which operations can be performed on certain expressions.
+Are an an umbrella term for grouping certain types together and specifying which operations can be performed on certain expressions.
 
 By entering `:t (==)` into the REPL, you can find out the type class.
 ```
