@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Lewis' blog"
 theme = "minimal-master"
 disqusShortname = "lewis" # delete this to disable disqus comments
+disqusShortname = "lewic23" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
@@ -12,7 +13,7 @@ googleAnalytics = ""
     accent = "blue"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "poppins" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["haskell", "scala"]
