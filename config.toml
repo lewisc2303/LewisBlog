@@ -2,7 +2,7 @@ baseURL = "https://lewis-coleman-blog.netlify.com"
 languageCode = "en-us"
 title = "Lewis' blog"
 theme = "minimal-master"
-disqusShortname = "lewic23" # delete this to disable disqus comments
+disqusShortname = "lewis" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
