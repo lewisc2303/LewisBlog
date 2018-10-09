@@ -16,8 +16,8 @@ I added my retrospective to my site in order to archive them for retrospective r
 I also made it pretty by making it blue with a better font. My old font didn't clearly show the **bolding** markdown.
 
 ### Enabling comments
-I also added the ability for people to comment on my posts and retrospectives. So now when I summarise what I've learnt in a post people can critique me if I say something false.
+I also added the ability for people to comment on my posts and retrospectives. So now when I summarise what I've learnt in a post, people can critique me if I say something false. This also comes with the ability to leave an emoji response! 
 
-I did this by setting up a disqus account and linking my website to my disqus account.
+**Leaving an emoji response is a mandatory request to anyone visiting my blogs!**
 
 **I made some progress with the next Haskell chapter but *blergh*, I couldn't get my head around certain syntax for constructing a new type  with an instance of a typeclass. So gonna get back it tomorrow morning.**
