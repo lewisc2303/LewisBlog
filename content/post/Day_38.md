@@ -38,8 +38,8 @@ However specific instances can be pulled from a typeclass by using the `instance
 instance Eq Colour where
   (==) Green Green = True
   (==) Blue Blue = True
-  (=/) Red Red = True
-  (=/) Red _ = False
+  (/=) Red Red = True
+  (/=) Red _ = False
   (==) _ _ = False
 ```
 *(I've made the logic weird just to demonstrate that the methods inherited can be crafted different to the derived instances)*
