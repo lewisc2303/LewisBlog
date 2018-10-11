@@ -43,7 +43,7 @@ touch this
 - **Global variables:** `$PWD $CD $MKDIR $USER $HOME`
 
 #### Pipelines:
-Piping in bash seems useful, it's a way of data around programmes on one command line. The syntax pipe `|` is used for this. Similarly `>` can be used for redirecting output and `<` can be used for redirecting input.
+Piping in bash seems useful, it's a way of directing data around programmes on one command line. The syntax pipe `|` is used for this. Similarly `>` can be used for redirecting output and `<` can be used for redirecting input.
 
 **Right now, I can't see much personal use for writing non-interactive script, but can see the use of learning some key interactive commands.**
 
