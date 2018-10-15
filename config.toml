@@ -15,7 +15,7 @@ googleAnalytics = ""
     font = "poppins" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["haskell", "scala"]
+    highlightLanguages = ["Haskell", "Scala", "FP"]
 
 [[menu.main]]
     url = "/"
