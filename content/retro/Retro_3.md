@@ -12,7 +12,7 @@ This sprint was orientated around going through the Haskell from first principle
 #### Sprint end: 16-10-18
 
 #### Happiness scale: 8.5/10
-i am happy with Haskell and like it as a language. It has made me really understand the benefits of a strictly typed language.
+I am happy with Haskell and like it as a language. It has made me really understand the benefits of a strictly typed language.
 
 #### Positive:
 - Looked into SoCraTes and got the ball rolling for booking the conference.
@@ -28,11 +28,10 @@ i am happy with Haskell and like it as a language. It has made me really underst
 - Didn't complete chapter 9, only got to chapter 8. However the sprint wasn't necessarily to complete chapter 9 but to get to a level of competency that I can start small projects in the next sprint, which I think I have achieved.
 
 #### General notes:
-
 The sprint was to complete chapter 9 however I only completed chapter 8. I also learnt the basics of bash commands and learnt how to write bash scripts. I have now ditched the git desktop and only use git through git commands and also try and solely use bash to navigate my directories.
 
 #### Action items:
 - To Sort out Bottighofen documents and plan trip
 - To book SoCraTes
 - Continue going through the Haskell from first principles book but also do mini projects on the side with [Exercism](https://exercism.io/my/tracks)
-- ...
+- To research and learn about another tool (Vim maybe)
