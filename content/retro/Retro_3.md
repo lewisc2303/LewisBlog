@@ -35,3 +35,4 @@ The sprint was to complete chapter 9 however I only completed chapter 8. I also 
 - To book SoCraTes
 - Continue going through the Haskell from first principles book but also do mini projects on the side with [Exercism](https://exercism.io/my/tracks)
 - To research and learn about another tool (Vim maybe)
+- learn/use some Haskell testing frameworks
