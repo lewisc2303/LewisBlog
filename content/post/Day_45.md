@@ -1,7 +1,7 @@
 ---
 title: "Day 45"
 date: 2018-10-17
-tags: []
+tags: [Haskell, FP, Recursion]
 draft: false
 ---
 # A break from the book
