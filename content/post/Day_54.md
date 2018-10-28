@@ -12,17 +12,17 @@ Innodays, was a retreat where a select group of people from all of the HolidayCh
 
 ### My Project
 
-The project I was involved with was called 'Live Review', which was a service to send push notifications to a mobile device through he browser, with holiday information and review questions. The push notifications were to be sent each day at specific times. For example as the Urlauber is expected to of just checked-in to their room, a push notification would be sent to rate the room and asked whether it was clean. The notification was to be brief and short with the additional option to add further detail, and at the end of the holiday all of these micro-reviews would compile into a full review.
+The project I was involved with was called 'Live Review', which was a service to send push notifications to a mobile device through the browser, with holiday information and review questions. The push notifications were to be sent each day at specific times. For example as the Urlauber is expected to of just checked-in to their room, a push notification would be sent to rate the room and asked whether it was clean. The notification was to be brief and short with the additional option to add further detail, and at the end of the holiday all of these micro-reviews would compile into a full review.
 
-I worked with some very knowledgable engineers that were experienced in tackling a problem like this, albeit a new technology, so research on how to send push notifications was needed.
+I worked with some very knowledgable engineers that were experienced in tackling a projects like this, albeit a new technology, so research on how to send push notifications was needed.
 
-I was able to shadow the back-end programming which was done in Scala and in a functional manner and from this I learnt a lot. But in general observing how the 2 developers approached the tasked and looked up the gaps in their knowledge and debug code was insightful, I hope to be able to incorporate this into my personal learning.
+I was able to shadow the back-end programming which was done in Scala (in a functional manner) and from this I learnt a lot. But in general, observing how the 2 developers approached the tasked and looked up the gaps in their knowledge and debug code was insightful, I hope to be able to incorporate this into my personal learning.
 
 The main technical skills I learnt were:
 
-- How the client-end communicates with the backend using HTTP. I learn about basic HTTP request methods; `Get`, `Post`. HTTP responses and status codes. However I am going to save further explanation for a later blog post as I think this is a key topic which requires more research and understanding.
-- An insight into some Scala web service libraries (Akka - library for webservice and Circe - library for .json files interpretation).
-- Using the `future` type to wrap a function in order to allow for multi-threading and prevent blocking. `future` tells the virtual machine to expect a callback value in the future, but in the meantime, to free up the thread for other computation. ‘Future’ is usually accompanied by an `onComplete` function which performs a task after the callback has been received. This increases concurrency in the program. This is how asynchronous functions are constructed and are synonymous to ‘promises’ in JavaScript.
+- How the client-end communicates with the backend using HTTP. I learnt about basic HTTP request methods; `Get`, `Post`. HTTP responses and status codes. However I am going to save further explanation for a later blog post as I think this is a key topic which requires more research and understanding.
+- An insight into some Scala web service libraries (Akka - library for web-service and Circe - library for .json files interpretation).
+- Using the `future` type to wrap a function in order to allow for multi-threading and prevent blocking. `future` tells the virtual machine to expect a callback value in the future, but in the meantime, to free up the thread for other computation. `future` is usually accompanied by an `onComplete` function which performs a task after the callback has been received. This increases concurrency in the program. This is how asynchronous functions are constructed and are synonymous to 'promises' in JavaScript.
 
 ### The Activities
 
