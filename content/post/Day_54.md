@@ -1,5 +1,5 @@
 ---
-title: "Day 54"
+title: "Day 54 - Innodays"
 date: 2018-10-26
 tags: [Innodays, Scala]
 draft: false
