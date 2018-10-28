@@ -10,7 +10,7 @@ It has been a while since I last blogged as I was at the HolidayCheck Innodays. 
 
 Innodays, was a retreat where a select group of people from all of the HolidayCheck offices met in the Bavarian Alps to work together to produce and most importantly **ship** projects which can benefit the Urlauber.
 
-### My Project
+### Our Project
 
 The project I was involved with was called 'Live Review', which was a service to send push notifications to a mobile device through the browser, with holiday information and review questions. The push notifications were to be sent each day at specific times. For example as the Urlauber is expected to of just checked-in to their room, a push notification would be sent to rate the room and asked whether it was clean. The notification was to be brief and short with the additional option to add further detail, and at the end of the holiday all of these micro-reviews would compile into a full review.
 
@@ -33,7 +33,7 @@ Every evening we played some board games or role playing games. My favourite of 
 
 ### The Food
 
-Now the food... A highlight of the trip. IT WAS INCREDIBLE. Some of the best I've had, and it was all traditional Bavarian cuisine, something I didn't know Bavaria had so much of.
+Now the food... A highlight of the trip. IT WAS INCREDIBLE. Some of the best I've had, and it was mainly traditional Bavarian cuisine, something I didn't know Bavaria had so much of.
 
 I tried:
 
