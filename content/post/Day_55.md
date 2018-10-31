@@ -1,7 +1,7 @@
 ---
 title: "Lists - Day 56"
 date: 2018-10-30
-tags: []
+tags: [Haskell, FP, Lists]
 draft: false
 ---
 
