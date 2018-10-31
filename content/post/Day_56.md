@@ -1,5 +1,5 @@
 ---
-title: "Lists - Day 56"
+title: "Day 56 - Lists"
 date: 2018-10-30
 tags: [Haskell, FP, Lists]
 draft: false
