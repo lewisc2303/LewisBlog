@@ -1,7 +1,7 @@
 ---
 title: "Day 57 - Strict and Lazy evaluation"
 date: 2018-10-31
-tags: []
+tags: [Haskell, Lazy, WHNF]
 draft: false
 ---
 # Strict, Non-Strict and Lazy Evaluation

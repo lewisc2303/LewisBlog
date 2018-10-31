@@ -1,5 +1,5 @@
 ---
-title: "Day 45"
+title: "Day 45 - Exercism"
 date: 2018-10-17
 tags: [Haskell, FP, Recursion]
 draft: false

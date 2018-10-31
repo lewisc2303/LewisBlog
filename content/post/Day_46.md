@@ -1,5 +1,5 @@
 ---
-title: "Day 46"
+title: "Day 46 - Referential Transparency"
 date: 2018-10-18
 tags: [Haskell, Referential Transparency]
 draft: false
