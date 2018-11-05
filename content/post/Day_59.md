@@ -12,6 +12,7 @@ Folding is a useful tool for deconstructing data, by reducing about the spine of
 Folds essentially replaces the cons constructor in a list with a function which takes 2 arguments and applies that function through the list until it reaches the base case.
 
 Folds can be represented and understood easier by the following recursive representation:
+
 ```
 foldr :: (a -> b -> b) -> b -> [a] -> b
 foldr f z xs =
