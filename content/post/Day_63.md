@@ -9,7 +9,7 @@ draft: false
 
 The strict type system of Haskell is one its key features, it can aid in crafting HOFs, catching errors at compile time and allow for more descriptive code.
 
-Algebraic Dataypes can be categorised into main types:
+Algebraic Dataypes can be categorised into 2 main types:
 
 #### Sum Type
 A data structure that contains different fixed singular data constructors. The most familiar being Boolean.
