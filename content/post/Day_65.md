@@ -41,7 +41,7 @@ The `main` function is the one that usually needs to introduce side effects, by 
 main :: IO ()
 main = do
   name <- getLine
-  sayHello name
+  return name
 ```
 
 #### Key bits
