@@ -1,5 +1,5 @@
 ---
-title: "Day 65 - Haskell Genesis - The creation of my first project"
+title: "Day 65 - My Haskell Genesis"
 date: 2018-11-08
 tags: [Haskell, IO, do]
 draft: false
