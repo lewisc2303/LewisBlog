@@ -1,7 +1,7 @@
 ---
 title: "Day 73 - Testing"
 date: 2018-11-14
-tags: []
+tags: [Haskell, Testing]
 draft: false
 ---
 
@@ -30,7 +30,7 @@ The actual definition can be found [here](https://docs.haskellstack.org/en/stabl
 
 **Issue 1**
 
-I was adding dependencies to the .cabal file and it was throwing a warning error message.
+I was adding dependencies to the `.cabal` file and it was throwing a warning error message.
 
 #### Project Layout
 
