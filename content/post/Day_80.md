@@ -9,8 +9,6 @@ draft: false
 
 Heute werde ich mein Blogpost auf Deutsch tun, weil ich zweimal pro Woche am Dienstag und Donnerstag Deutsche Unterricht haben. Aber, dieses woche bin ich nicht gehen, deshalb ein besser Grund zu ein Deutsche post machen.
 
-Im dieser Blog werde ich auf reflexive Verben koncentrieren. Auf Deutsch gibt es viele reflexive Verben, aber auf English keine. Also benutze ich nicht naturliche diesen Worte.
-
 Wenn ich Deutsch schrieben, erkenne ich dass, ich besser Deustch schrieben kann weil, ich uber Deutche Grammartisch denken kann.
 
 # RSS einrichten
