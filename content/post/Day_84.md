@@ -1,5 +1,5 @@
 ---
-title: "Day 84 - Compiler Driven Development"
+title: "Day 84 - Compile Driven Development"
 date: 2018-11-26
 tags: [Haskell, Kata]
 draft: false
