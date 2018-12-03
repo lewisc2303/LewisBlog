@@ -1,5 +1,5 @@
 ---
-title: "Day 94 - Monoids"
+title: "Day 91 - Monoids"
 date: 2018-12-03
 tags: [Haskell, Monoids]
 draft: false
