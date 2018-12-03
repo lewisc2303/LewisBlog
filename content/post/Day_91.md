@@ -10,7 +10,7 @@ This blog post has been in the making for a while as I didn't fully understand *
 
 ### What is a Monoid?
 
-A `Monoid` is a function that takes **2 arguments** and is governed by **2 laws**:
+A `Monoid` is a datatype that takes **2 arguments** and is governed by **2 laws**:
 
 - **Applicability** : This law states that the order of argument execution does not effect the result.
 
