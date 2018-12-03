@@ -1,6 +1,6 @@
 ---
 title: "Day 91 - Monoids"
-date: 2018-12-03
+date: 2018-12-02
 tags: [Haskell, Monoids]
 draft: false
 ---
