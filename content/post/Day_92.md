@@ -1,7 +1,7 @@
 ---
-title: "Day 92 - Why Monoid?"
+title: "Day 91 - Why Monoid?"
 date: 2018-12-03
-tags: [Haskell, Monoid]
+tags: [Haskell, Monoids]
 draft: false
 ---
 
